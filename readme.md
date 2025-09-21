@@ -50,7 +50,7 @@ Hyperparameter tuning was performed using `GridSearchCV` to find the optimal par
 
 ## 💡 Conclusion
 
-> An executive summary of the project is presented in this directory: `Executive summary.pptx`.
+> An executive summary of the project is presented in this directory: `Executive summary.pdf`.
 
 Testing the model on `X-test, y_test` proved a great performance with:
 - `Recall`: $\quad\;\frac{TP}{TP + FN} = \frac{369}{369 + 29} = 92.7 \;\%$
@@ -76,3 +76,4 @@ Future steps for this project could include:
 - **Exploring More Data:** Since the model has performed extremely well, there might be a risk of overfitting. Therefore, it is important to collect more data to ensure the model's generalizability.
 
 - **Deployment:** Deploying the model as a web application to provide real-time predictions and insights to the HR department.
+
