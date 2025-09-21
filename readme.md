@@ -20,16 +20,16 @@ Initial data exploration involved examining the data types, checking for missing
     </p>
 - Leaving is more likely among employees with low **and** high `satisfaction_level`. Same behavior is seen for few other features like `number_project`, `average_monthly_hours`, `time_spent_company`.
     <p align="center">
-    <img src="images\output2.png" width="400"/>
+    <img src="images\output2.png" width="500"/>
     </p>
     <p align="center">
-    <img src="images\output3.png" width="400"/>
+    <img src="images\output3.png" width="500"/>
     </p>
     <p align="center">
-    <img src="images\output4.png" width="400"/>
+    <img src="images\output4.png" width="500"/>
     </p>
     <p align="center">
-    <img src="images\output5.png" width="400"/>
+    <img src="images\output5.png" width="500"/>
     </p>
 - Correlation matrix helps *feature selection* for building a model:
     <p align="center">
@@ -74,4 +74,5 @@ Future steps for this project could include:
 
 - **Collecting More Data:** Gathering more data, such as employee demographics and qualitative feedback, could improve model accuracy.
 - **Exploring More Data:** Since the model has performed extremely well, there might be a risk of overfitting. Therefore, it is important to collect more data to ensure the model's generalizability.
+
 - **Deployment:** Deploying the model as a web application to provide real-time predictions and insights to the HR department.
